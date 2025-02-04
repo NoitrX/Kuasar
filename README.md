@@ -56,5 +56,6 @@ For AI CHATBOX, I implement backend for calling the API. Its because i always ge
 https://github.com/NoitrX/KuasarBackend.git
 
 Installation :
-npm install
-node index.js
+- npm install
+
+- node index.js
